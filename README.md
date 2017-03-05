@@ -6,6 +6,6 @@ Topics include:
     * Bayesian Linear Regression example
 * [pytorch](http://pytorch.org/) - Dynamic computation graph framework
     * Linear Regression example
-* [fbprophet](https://github.com/facebookincubator/prophet) -
+* [prophet](https://github.com/facebookincubator/prophet) -
         A simple time series prediction tool
     * Predict Daily notional volume of [SPY](https://www.google.com/finance?q=SPY) ETF
