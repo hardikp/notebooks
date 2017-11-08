@@ -1,12 +1,11 @@
 ## A collection of notebooks
 
-Topics include:
-* [librosa](https://github.com/librosa/librosa) - A python package for audio analysis
-* [edward](http://edwardlib.org/) - probabilistic programming framework on top of tensorflow
+* [librosa](http://nbviewer.jupyter.org/github/hardikp/notebooks/blob/master/librosa.ipynb) - A python package for audio analysis [[repo](https://github.com/librosa/librosa)]
+* [edward](http://nbviewer.jupyter.org/github/hardikp/notebooks/blob/master/edward.ipynb) - probabilistic programming framework on top of tensorflow [[website](http://edwardlib.org/)]
     * Bayesian Linear Regression example
-* [pytorch](http://pytorch.org/) - Dynamic computation graph framework
+* [pytorch](http://nbviewer.jupyter.org/github/hardikp/notebooks/blob/master/pytorch.ipynb) - Dynamic computation graph framework [[website](http://pytorch.org/)]
     * Linear Regression example
-* [prophet](https://github.com/facebookincubator/prophet) -
-        A simple time series prediction tool
+* [prophet](http://nbviewer.jupyter.org/github/hardikp/notebooks/blob/master/prophet.ipynb) -
+        A simple time series prediction tool [[repo](https://github.com/facebookincubator/prophet)]
     * Predict Daily notional volume of [SPY](https://www.google.com/finance?q=SPY) ETF
-* [tangent](https://github.com/google/tangent) - Automatic differentiation library
+* [tangent](http://nbviewer.jupyter.org/github/hardikp/notebooks/blob/master/tangent.ipynb) - Automatic differentiation library [[repo](https://github.com/google/tangent)]
