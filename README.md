@@ -9,3 +9,4 @@ Topics include:
 * [prophet](https://github.com/facebookincubator/prophet) -
         A simple time series prediction tool
     * Predict Daily notional volume of [SPY](https://www.google.com/finance?q=SPY) ETF
+* [tangent](https://github.com/google/tangent) - Automatic differentiation library
